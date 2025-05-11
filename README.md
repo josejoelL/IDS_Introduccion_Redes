@@ -1,14 +1,20 @@
 # IDS_Introduccion_Redes
-Agregado de todo lo visto en la materia de introduccion de redes computacionales
+#### Agregado de todo lo visto en la materia de introduccion de redes computacionales
 
 
-manejamos 6 equipos de computo 
+### manejamos 6 equipos de computo 
 
 CONTADURIA_10_101 - IP:10.192.168.0.1 MASCARA DE RED: 255.255.255.0
+<br>
 CONTADURIA_10_102 - IP:10.192.168.0.2 MASCARA DE RED: 255.255.255.0
+<br>
 CONTADURIA_10_103 - IP:10.192.168.0.3 MASCARA DE RED: 255.255.255.0
+<br>
 CONTADURIA_10_104 - IP:10.192.168.0.4 MASCARA DE RED: 255.255.255.0
+<br>
 CONTADURIA_10_105 - IP:10.192.168.0.5 MASCARA DE RED: 255.255.255.0
+<br>
 CONTADURIA_10_106 - IP:10.192.168.0.6 MASCARA DE RED: 255.255.255.0
+<br>
 
 
